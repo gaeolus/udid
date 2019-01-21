@@ -1,0 +1,16 @@
+PrimaryDI|productCode|productCodeName
+05414734005838|LWQ|HEART-VALVE, MECHANICAL
+00695684511111|LJX|Test, Urine Leukocyte
+00695684511111|KQO|Automated Urinalysis System
+00695684511111|JRE|Refractometer For Clinical Use
+00695684511111|JMT|Diazo (Colorimetric), Nitrite (Urinary, Non-Quant)
+00695684511111|JJB|Azo-Dyes, Colorimetric, Bilirubin & Its Conjugates (Urinary, Non-Quant.)
+00695684511111|JIR|Indicator Method, Protein Or Albumin (Urinary, Non-Quant.)
+00695684511111|JIO|Blood, Occult, Colorimetric, In Urine
+00695684511111|JIN|Nitroprusside, Ketones (Urinary, Non-Quant.)
+00695684511111|JIL|Method, Enzymatic, Glucose (Urinary, Non-Quantitative)
+00695684511111|CEN|Dye-Indicator, Ph (Urinary, Non-Quant.)
+00695684511111|CDM|Diazonium Colorimetry, Urobilinogen (Urinary, Non-Quant.)
+B066102357NS1|DTL|Adaptor, Stopcock, Manifold, Fitting, Cardiopulmonary Bypass
+00818009010209|MIH|System, Endovascular Graft, Aortic Aneurysm Treatment
+EMAHKM710311|HTY|PIN, FIXATION, SMOOTH

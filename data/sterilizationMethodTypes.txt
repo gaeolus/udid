@@ -1,0 +1,3 @@
+PrimaryDI|sterilizationMethod
+B066102357NS1|Ethylene Oxide
+EMAHKM710311|Radiation Sterilization

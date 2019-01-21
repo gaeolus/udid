@@ -1,0 +1,278 @@
+{
+  "keys": "/mnt/d/work/git/egg-udid/udid/config/config.default.js",
+  "sequelize": {
+    "dialect": "/mnt/d/work/git/egg-udid/udid/config/config.default.js",
+    "database": "/mnt/d/work/git/egg-udid/udid/config/config.default.js",
+    "password": "/mnt/d/work/git/egg-udid/udid/config/config.default.js",
+    "host": "/mnt/d/work/git/egg-udid/udid/config/config.default.js",
+    "port": "/mnt/d/work/git/egg-udid/udid/config/config.default.js",
+    "username": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-sequelize/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-session/config/config.default.js",
+    "key": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "useSession": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "headerName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "queryName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "value": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "value": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "value": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "policy": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-watcher/config/config.default.js",
+      "development": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-schedule/config/config.default.js",
+      "file": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "files": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-static/config/config.default.js",
+    "dir": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-static/config/config.default.js",
+    "preload": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-static/config/config.default.js",
+    "buffer": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-view/config/config.default.js",
+    "cache": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-view/config/config.default.js",
+    "mapping": "/mnt/d/work/git/egg-udid/udid/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "name": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "proxy": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "version": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "description": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "private": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "mysql2": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "egg-bin": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "egg-mock": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "factory-girl": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "lodash": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "sequelize-cli": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "dev": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "test": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "cov": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "ci": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "autod": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "sequelize": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    },
+    "author": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "license": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "HOME": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "rundir": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "notFound": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "sitefile": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "middlewares": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "httpClient": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "encoding": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "formLimit": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "strict": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "depth": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "encoding": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "env": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "level": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "outputJSON": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "buffer": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "appLogName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "coreLogName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "agentLogName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "errorLogName": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "maxSockets": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "maxSockets": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "logging": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "port": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+      "hostname": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/mnt/d/work/git/egg-udid/udid/node_modules/egg/config/config.default.js"
+}

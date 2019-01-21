@@ -1,0 +1,5 @@
+PrimaryDI|storageHandlingType|storageHandlingHigh (Unit)|storageHandlingHigh (Value)|storageHandlingLow (Unit)|storageHandlingLow (Value)|storageHandlingSpecialConditionText 
+00818009010209|Storage Environment Temperature|Degrees Fahrenheit|59|Degrees Fahrenheit|46|
+00818009010209|Storage Environment Humidity|Percent (%) Relative Humidity|40|Percent (%) Relative Humidity|0|
+EMAHKM710311|Storage Environment Temperature|Degrees Celsius|28|Degrees Celsius|10|
+EMAHKM710311|Storage Environment Humidity|Percent (%) Relative Humidity|50|Percent (%) Relative Humidity|10|

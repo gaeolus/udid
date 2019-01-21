@@ -1,0 +1,7 @@
+primary_di|submission_number|supplement_number
+B062110055545|submission_n1|supplement_n1
+B062110055545|submission_n2|supplement_n2
+B062110055540|submission_n3|supplement_n3
+B062110055540|submission_n4|supplement_n4
+B062110055535|submission_n5|supplement_n5
+B062110055535|submission_n6|supplement_n6

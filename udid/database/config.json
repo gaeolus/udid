@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "root",
+    "password": "passw0rd",
+    "database": "udid",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "passw0rd",
+    "database": "udid-unittest",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

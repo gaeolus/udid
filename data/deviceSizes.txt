@@ -1,0 +1,8 @@
+PrimaryDI|sizeType|size (Unit)|size (Value)|sizeText 
+5414734005838|Outer Diameter|Millimeter|19|
+00818009010209|Device Size Text, specify|||25 mm, Main Body Diameter
+00818009010209|Device Size Text, specify|||60 mm, Main Body Length
+00818009010209|Device Size Text, specify|||16 mm, Limb Diameter
+00818009010209|Device Size Text, specify|||40 mm, Limb Length
+EMAHKM710311|Length|Millimeter|152|
+EMAHKM710311|Outer Diameter|Millimeter|0.90|
